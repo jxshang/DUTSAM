@@ -4,9 +4,11 @@ This project contains the source code for the work: **A Dual Two-Stage Attention
 
 **Authors**: Jiaxing Shang, Xiaoquan Li, Ruixiang Zhang, et al.
 
+**Institution**: College of Computer Science, Chongqing University, Chongqing, China
+
 **Abstract**: Hard landings are a significant safety concern in aviation, with potential consequences ranging from poor passenger experiences to serious injuries or fatalities. Predicting and explaining hard landing events are equally important for enhancing flight safety, the former makes it possible to give proactive warnings, while the latter helps pilots identify the reasons and refine their skills. However, existing studies generally lack a comprehensive consideration for the fine-grained characteristics of flight data containing both inter-temporal and inter-parametric relationships, resulting in suboptimal prediction performance. In addition, most of existing approaches aim at improving the prediction performance but fail to provide interpretability for the causes of hard landing. To address the above problems, we propose DUTSAM, a DUal Two-Stage Attention-based interpretable Model for hard landing prediction from quick access recorder (QAR) data. The model consists of dual parallel modules, each of which combines a convolutional feature encoder and a two-stage attention mechanism. The two encoders capture fine-grained characteristics by encoding multivariate data from temporal domain and parametric domain respectively. After that, the dual two-stage attention mechanism captures the inter-temporal and inter-parametric correlations in reverse order to predict hard landing and provide interpretation from both temporal and parametric perspectives. Experimental results on a real QAR dataset with 37,920 flights show that DUTSAM achieves better prediction performance compared with other state-of-the-art baselines in terms of Precision, Recall, and F1-score. Additionally, case study demonstrates that DUTSAM can uncover key flight parameters and moments strongly correlated to the hard landing events.
 
-College of Computer Science, Chongqing University, Chongqing, China
+**Keywords**: Interpretable AI, Attention mechanism, Flight safety, Hard landing, Deep learning
 
 ## Table of Contents
 
