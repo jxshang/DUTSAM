@@ -37,6 +37,6 @@ python main.py
 
 ## Contact
 
-- shangjx@cqu.edu.cn (Jiaxing Shang)
+- shangjx@cqu.edu.cn (Jiaxing Shang, Corresponding author)
   
 - li.xiaoquan@foxmail.com (Xiaoquan Li)
