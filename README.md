@@ -10,6 +10,10 @@ This project contains the source code for the work: **A Dual Two-Stage Attention
 
 **Keywords**: Interpretable AI, Attention mechanism, Flight safety, Hard landing, Deep learning
 
+**Reference**: Jiaxing Shang*, Xiaoquan Li, Ruixiang Zhang, Linjiang Zheng, Xu Li, Riquan Zhang, Xinbin Zhao, Fan Li, Hong Sun. A Dual Two-Stage Attention-based Model for interpretable hard landing prediction from flight data. Engineering Applications of Artificial Intelligence, 2025(154): 110911.
+
+Please kindly cite the above reference and give us a star if you find this code helpful.
+
 ## Table of Contents
 
 - Datagenerator.py: the code for dateset generation
